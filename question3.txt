@@ -1,0 +1,1 @@
+This file can helps to merge function in the GitHub repository
